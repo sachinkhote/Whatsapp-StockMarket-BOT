@@ -1,4 +1,4 @@
-#marketStack API Key= f026792d1e21e00890230aa8130c2672
+
 import os
 import requests
 import json
